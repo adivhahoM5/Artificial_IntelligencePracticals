@@ -3,26 +3,7 @@
 
 ---
 
-> **Note:** These are university practical assignments submitted as part of the CMPG 313 Artificial Intelligence module. They are not production projects — they are learning exercises meant to demonstrate understanding of core AI concepts.
-
----
-
-## 📁 Project Structure
-
-```
-CMPG313-Practicals/
-│
-├── Practical_2/
-│   └── practical2.py
-│
-├── Practical_3/
-│   └── practical3.py
-│
-├── Practical_4/
-│   └── healthbot.py
-│
-└── README.md
-```
+> **Note:** These are university practical assignments submitted as part of the CMPG 313 Artificial Intelligence module. They are not production projects — they are learning exercises meant to demonstrate understanding of core AI concept
 
 ---
 
@@ -133,32 +114,6 @@ This practical demonstrates the application of First-Order Logic in building a s
 | Practical 3 | Python, NumPy, Matplotlib, Scikit-learn |
 | Practical 4 | Python (standard library only) |
 
----
-
-## How to Run
-
-### Requirements
-- Python 3.x
-- For Practicals 2 & 3: `numpy`, `matplotlib`, `scikit-learn`
-
-### Install dependencies (Practicals 2 & 3)
-```bash
-pip install numpy matplotlib scikit-learn
-```
-
-### Run each practical
-```bash
-# Practical 2
-python Practical_2/practical2.py
-
-# Practical 3
-python Practical_3/practical3.py
-
-# Practical 4
-python Practical_4/healthbot.py
-```
-
-> Practicals 2 and 3 were originally developed in Google Colab and can also be run there by uploading the `.py` files or copying the code into a new notebook.
 
 ---
 
